@@ -1,0 +1,2 @@
+rootProject.name = "TastProJect3"
+include ':app'
